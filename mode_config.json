@@ -1,0 +1,14 @@
+{
+  "version": "2025-07-29T09:50:31Z",
+  "thresholds": {
+    "critical": 0.85,
+    "high": 0.68,
+    "medium": 0.5
+  },
+  "colors": {
+    "critical": "#ff4dd4",
+    "high": "#faad14",
+    "medium": "#52c41a",
+    "low": "#1890ff"
+  }
+}
